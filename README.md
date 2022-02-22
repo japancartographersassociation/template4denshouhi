@@ -1,4 +1,4 @@
-# template4denshouhi
+# template4denshouhi v0.1 beta
 自然災害伝承碑アーカイブ用テンプレート
 
 
