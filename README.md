@@ -1,0 +1,2 @@
+# template4denshouhi
+自然災害伝承碑アーカイブ用テンプレート
